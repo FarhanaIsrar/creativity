@@ -1,0 +1,84 @@
+
+body{
+    background-color: rgb(166, 223, 245);
+}
+
+
+
+h1 {
+    color: rgb(25, 0, 255);
+    
+    
+}
+p{
+    color: chocolate;
+    font-size: large;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#image3{
+height: 200%;
+width: 200%;
+float: left;
+
+    
+}
+.large{
+ height: 30%;
+ width:42%;
+ float: left;
+ 
+}
+#phead{
+    float: left;
+    margin-top: 15%;
+    position: absolute;
+}
+.p1{
+    position: absolute;
+    margin-top: 18%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#punjab{
+    position: absolute;
+    margin-top:22% ;
+}
+ #bhead{
+    position: absolute;
+    margin-top: 35%; 
+}
+#p2{
+    position: absolute;
+    margin-top:37% ;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+ #khead{
+    position: absolute;
+    margin-top:55% ;
+    
+    margin-right: 2%; 
+}
+    #p3{
+        position: absolute;
+        margin-top: 57%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    /* #tomb{
+        float: right;
+        position: static;
+        margin-left: 10%;
+        margin-top: 0.5%; */
+
+    #balochistan{
+        
+         margin-top: 41%; 
+         position: absolute;
+    }
+        #kpk{
+            position: absolute;
+            margin-top: 60%;
+        }
+    
